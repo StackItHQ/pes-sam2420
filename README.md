@@ -1,5 +1,3 @@
----
-
 # Superjoin Hiring Assignment
 
 ### Welcome to Superjoin's hiring assignment! 🚀
