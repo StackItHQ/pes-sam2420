@@ -1,5 +1,3 @@
-Here's how you can update your README file based on your project requirements, along with systematic documentation in the Developer's Section:
-
 ---
 
 # Superjoin Hiring Assignment
