@@ -60,7 +60,8 @@ Certainly! Here’s a more detailed Developer’s Section for your README file:
 ---
 
 ## Developer's Section
-
+Name: Mohammed Hashim Maniyar
+SRN: PES2UG21CS299
 ### Approach
 
 1. **Initialization:**
