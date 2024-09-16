@@ -140,4 +140,3 @@ https://github.com/user-attachments/assets/7a67a248-55bf-41b6-8369-90f20bfd1ee3
 
 ---
 
-Make sure you update the checklist as you complete each task. Add your video link and any final comments as needed in the Developer's Section.
